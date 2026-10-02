@@ -1,5 +1,5 @@
 // Global API Configuration
-window.ascensus_API_BASE = 'https://wal-mart-seven.vercel.app';
+window.ascensus_API_BASE = 'https://nokia-lime.vercel.app';
 
 // Global App Settings
 window.APP_CONFIG = {
