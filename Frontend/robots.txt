@@ -4,10 +4,6 @@
 User-agent: *
 Allow: /
 Allow: /index.html
-Allow: /account/
-Allow: /401k/
-Allow: /retirement/
-Allow: /resources/
 Allow: /sitemap.xml
 
 # Disallow private/sensitive paths (if any exist)
@@ -18,7 +14,7 @@ Disallow: /*.json$
 Disallow: /transactional/
 
 # Sitemap location
-Sitemap: https://ascensus.com/sitemap.xml
+#Sitemap: https://ascensus.com/sitemap.xml
 
 # Crawl delay (in seconds) - adjust based on server capacity
 Crawl-delay: 1
